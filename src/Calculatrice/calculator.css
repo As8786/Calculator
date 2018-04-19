@@ -1,0 +1,41 @@
+.calculator-container{
+    width : 17%;
+    margin: auto;
+    border: 2px solid grey;
+    text-align: center;
+}
+
+.calculator-container .screen{
+    width : 70%;
+    margin: auto;
+    margin-top:12px;
+    margin-bottom: 12px;
+    min-height: 20px;
+    border: 4px solid grey;
+}
+
+.calculator-operator{
+    width : 70%;
+    margin: auto;
+}
+
+.calculator-operator button{
+    width :22%;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin:2px 2px;
+    
+}
+
+.calculator-number{
+    width: 70%;
+    margin: auto;
+}
+
+.calculator-number button{
+    width :22%;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin:2px 2px;
+    
+}
